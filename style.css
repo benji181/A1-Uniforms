@@ -1,0 +1,39 @@
+.container-fluid.container1{
+    background-color: rgb(138, 208, 255); 
+    height: 43px;
+    width: 100%;
+}
+
+.container2{
+    height: 80px;
+    width: 100%;
+    background-image: linear-gradient( 111.4deg,  rgb(230, 230, 230) 1.5%, rgba(130, 130, 131, 0.664) 93.2% );  
+}
+
+.logo{
+margin-top: 5px;
+}
+
+.anchor{
+   padding: 40px;
+    width: 70%;
+}
+
+.hom{
+    padding: 20px;
+    color: rgb(0, 0, 0);
+    font-style: bold;
+    font-size: 120%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.hom:hover{
+    color:blue;
+    padding: 20px;
+    text-decoration: none
+}
+
+.inp{
+    margin-left: 600px;
+    margin-bottom: 200px;
+}
